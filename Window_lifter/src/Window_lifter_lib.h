@@ -2,7 +2,6 @@
  * Window_lifter_lib.h
  *
  *  Created on: 21/10/2017
- *      Author: Carlos
  *      MAL of Window Lifter Project
  */
 
